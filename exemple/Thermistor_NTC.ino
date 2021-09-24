@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------  
-  Sobre a biblioteca: https://elcereza.com/thermistor_ntc.h
+  Sobre a biblioteca: https://elcereza.com/thermistor_ntc-h
 
   Autor     : Gustavo Cereza
   Site      : https://elcereza.com/
