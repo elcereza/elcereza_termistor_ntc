@@ -23,7 +23,7 @@
     -----------------------------------------------------------------------------
     
     Curioso querendo saber como funciona a biblioteca?
-    Então veja nosso post: https://elcereza.com/termistor_ntc/
+    Então veja nosso post: https://elcereza.com/termistor/
 */
 
 #include "Arduino.h"
